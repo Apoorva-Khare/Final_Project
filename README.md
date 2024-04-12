@@ -29,8 +29,12 @@ To increase score and handle imbalanced data I used SMOTE technique but with thi
 * # Insights & Visualization:
 After building and evaluating the model, generated insights from the sentiment analysis results using bar chart.
 
+# Streamlit Page Link : 
+http://localhost:8501/
+
 # Analysis
 The data provided is very small and also contain duplicated data due to which the model performance is not good. Since it is related to medical field so preffered to not make any changes.
 
 # Email Id: apkhare29@gmail.com
+
 # LinkedIn : www.linkedin.com/in/apoorva-khare-7548642a6
