@@ -24,7 +24,15 @@ To convert text data to numerical value used CountVectorizer and then Models are
     macro avg       0.51      0.51     0.51       200
     weighted avg    0.53      0.55     0.54       200
 
-To increase score and handle imbalanced data I used SMOTE technique but with this also due to less data and dat duplicacy highest score is obtained by NaiveBayes model which is 54%.
+# To increase score and handle imbalanced data I used SMOTE technique but with this also due to less data and data duplicacy the highest score is obtained by NaiveBayes model which is 54%.
+  precision    recall  f1-score   support
+
+           0       0.42      0.33      0.37        80
+           1       0.61      0.70      0.65       120
+
+         accuracy                      0.55       200
+         macro avg      0.51   0.51    0.51       200
+         weighted avg   0.53   0.55    0.54       200
 
 * # Insights & Visualization:
 After building and evaluating the model, generated insights from the sentiment analysis results using bar chart.
